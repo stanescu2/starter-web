@@ -3,11 +3,11 @@
 
 # TEAM
 
-    Json Taylor json@git.training 
+    Jason Taylor jason@git.training 
 
 # THANKS
 
-    Adriana
+    Adriana thanks to Jason
 
 
 # TECHNOLOGY COLOPHON
